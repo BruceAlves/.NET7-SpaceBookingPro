@@ -1,0 +1,11 @@
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\bin\Debug\net7.0\SpaceBookingPro.Data.deps.json
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\bin\Debug\net7.0\SpaceBookingPro.Data.dll
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\bin\Debug\net7.0\SpaceBookingPro.Data.pdb
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\obj\Debug\net7.0\SpaceBookingPro.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\obj\Debug\net7.0\SpaceBookingPro.Data.AssemblyInfoInputs.cache
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\obj\Debug\net7.0\SpaceBookingPro.Data.AssemblyInfo.cs
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\obj\Debug\net7.0\SpaceBookingPro.Data.csproj.CoreCompileInputs.cache
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\obj\Debug\net7.0\SpaceBookingPro.Data.dll
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\obj\Debug\net7.0\refint\SpaceBookingPro.Data.dll
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\obj\Debug\net7.0\SpaceBookingPro.Data.pdb
+C:\Users\dev2\source\repos\SpaceBookingPro\src\SpaceBookingPro.Data\obj\Debug\net7.0\ref\SpaceBookingPro.Data.dll
